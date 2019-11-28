@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Code Converter</string>
+    <string name="edittext1">Enter Your Code</string>
+    <string name="edittext2">Your Converted Code</string>
+
+
+    <string-array name="numbersystem">
+        <item>Binary</item>
+        <item>Decimal</item>
+        <item>Octal</item>
+        <item>Hexadecimal</item>
+    </string-array>
+
+
+</resources>
